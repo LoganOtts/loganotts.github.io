@@ -1,0 +1,64 @@
+/**BG Gradient**/
+body {
+    color: black;
+background: #E6E6E6;
+}
+
+/**Nav Bar Stuff**/
+.li {
+    color: black;
+}
+.img-responsive {
+    margin: 0 auto;
+}
+.navbar-header {
+    background: transparent;
+}
+ .navbar.transparent.navbar-inverse {
+   background: rgba(0,0,0,0.4);
+}
+.form-control {
+   background: rgba(0,0,0,0.4);
+}
+.btn-default {
+    background: rgba(0,0,0,0.4);
+    color: grey;
+}
+
+/**Body**/
+.container .AHHHH {
+    background: transparent;
+    margin: 30px;
+}
+.container.AHHHH {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#00419c+0,002253+100 */
+background: #00419c; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, #00419c 0%, #002253 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, #00419c 0%,#002253 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, #00419c 0%,#002253 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00419c', endColorstr='#002253',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    width: 100%;
+    height: 200px;
+box-shadow: 0px 1px 1px -1px rgba(4,64,116,1);
+}
+hr {
+    border-top: 1px solid #ADADAD;
+    color: black;
+}
+.text {
+    font-family: 'Poppins', sans-serif;
+}
+.argh {
+    margin-top: 5px;
+}
+.SmallImg {
+    width: 200px;
+    height: 100px;
+}
+.ImgLeft {
+    float: right;
+}
+.imgLogan {
+    height: 20%;
+    width: 20%;
+}

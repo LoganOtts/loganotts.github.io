@@ -1,0 +1,94 @@
+body, html {
+    background: #f6f6f6;
+}
+/* IDs */
+#painting {
+    background: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 10px #8d8d8d;
+}
+#toprow {
+    height: 290px;
+}
+#bigbox {
+    width: 290px;
+    height: 290px;
+}
+#smallerbox {
+    width:100px;
+    height: 145px;
+}
+#smallesttopbox {
+    width:100px;
+    height: 145px;
+}
+#blackbar1 {
+    height: 290px;
+    width: 10px;
+}
+#blackbar2 {
+    height: 10px;
+    width: 100px;
+}
+#middlerow {
+    height: 10px;
+    width: 400px;
+}
+#blackbar3 {
+    height: 100px;
+    width: 10px;
+}
+#blackbar5 {
+    height: 100px;
+    width: 10px;
+}
+#blackbar4 {
+    height: 10px;
+    width: 100px;
+}
+#bottomleftcorner {
+    height: 100px;
+    width: 100px;
+}
+#bottomrighttopbox {
+    height: 45px;
+    width: 100px;
+}
+#bottomrightbottombox {
+    height: 45px;
+    width: 100px;
+}
+#bottommiddlebox {
+    height: 100px;
+    width: 180px;
+}
+/* Classes */
+.red {
+    background: #cc3333;
+}
+.blue {
+    background: blue;
+}
+.yellow {
+    background: yellow;
+}
+.black {
+    background: black;
+}
+.white {
+    background:white;
+}
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
+.mediumbox {
+    height: 140px;
+    width: 100px
+}
